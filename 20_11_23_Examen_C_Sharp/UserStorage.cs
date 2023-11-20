@@ -50,7 +50,7 @@ namespace _20_11_23_Examen_C_Sharp
 
     }
 
-
+    и
 
     public class G<T, Y, Z>
     {
